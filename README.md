@@ -1,0 +1,1 @@
+This project implements a sentiment analysis model to classify tweets as positive or negative using the Sentiment140 dataset. The code preprocesses the text data by cleaning and vectorizing it with TF-IDF, then trains a Multinomial Naive Bayes classifier. It includes functionality to evaluate model performance and predict sentiment for custom tweets.
